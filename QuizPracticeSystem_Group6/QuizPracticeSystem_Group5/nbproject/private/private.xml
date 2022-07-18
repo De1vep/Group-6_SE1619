@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Ky_5/SWP/PRJ_Team_5_SE1616/Project/summer2022-se1616-g5/QuizPracticeSystem_Group5/src/java/Controller/QuizHandleController.java</file>
+            <file>file:/D:/Ky_5/SWP/PRJ_Team_5_SE1616/Project/summer2022-se1616-g5/QuizPracticeSystem_Group5/src/java/dal/QuizQuizHandleDAO.java</file>
+            <file>file:/D:/Ky_5/SWP/PRJ_Team_5_SE1616/Project/summer2022-se1616-g5/QuizPracticeSystem_Group5/src/java/model/Question.java</file>
+            <file>file:/D:/Ky_5/SWP/PRJ_Team_5_SE1616/Project/summer2022-se1616-g5/QuizPracticeSystem_Group5/src/java/dal/QuestionQuizHandleDAO.java</file>
+            <file>file:/D:/Ky_5/SWP/PRJ_Team_5_SE1616/Project/summer2022-se1616-g5/QuizPracticeSystem_Group5/src/java/Controller/LoginController.java</file>
+            <file>file:/D:/Ky_5/SWP/PRJ_Team_5_SE1616/Project/summer2022-se1616-g5/QuizPracticeSystem_Group5/src/java/model/QuestionQuizHandle.java</file>
+            <file>file:/D:/Ky_5/SWP/PRJ_Team_5_SE1616/Project/summer2022-se1616-g5/QuizPracticeSystem_Group5/src/java/model/QuizQuizHandle.java</file>
+        </group>
+    </open-files>
+</project-private>
